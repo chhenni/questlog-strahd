@@ -41,7 +41,7 @@ At some point we noticed that the vegetation seemed to be different from what we
 
 We passed a large wall with a gate. On each side of the gate there where two headless statues.
 
-A while after passing the gate the fog seemed to thicken even more, and the stranger said that it found us lacking **Dobbeltsjekk**
+A while after passing the gate the fog seemed to thicken even more, and the stranger said "Seems like the mists judged you and found you wanting, seek seek out my master Madame Eve at the Vistani encampment"
 The stranger said that we must seek out Madame Eva, and then quickly slid into the fog.
 
 Weary from our travels, we decided to set up camp to rest for the night. 
@@ -56,4 +56,30 @@ Most of the houses seems boarded up and abandoned, but outside one we see to chi
 I approach them to find out what the problem is.
 They say that there is a monster in their house, locked into the basement by their parents. They also say that one of their siblings is still in the house, on the third floor.
 When asking how long they had been waiting outside their house, they said a week, but I got the feeling that it was longer than that. I ended up giving them a ration pack as we went to check out the house and try to save the baby
+We got the feeling that we where starting to get walled in while outside, but there was nothing we could do about it so we carried on.
+
+After checking the windows for dangers we went inside the house.
+While on the first floor, we noticed a picture of the family who presumably, there are two parents, the two children we saw outside. And a third baby. The wife looks at the baby with scorn. 
+We also noticed rotting food in the dining room. Wierdly the foot in the pantry was not rotting.
+It had a large central staircase on the south wall, and after checking the rooms on the ground floor for dangers, Elvira and I went upstairs to try to find the baby while Xyrith investigated the ground floor.
+The first floor hallway was empty so we continued up. 
+On the second floor the staircase stopped, in a hallway with a suit of armor, so we tried going to the west wing to try to get further upstairs. Before we got to the door, the suit of armor started attacking us(Quite rudely).
+After hearing the noise from the battle, Xyrith decided to join us in the fight. 
+In a feat of amazing strenght Elvira manages to toss the armour down to the ground floor, and we take up positions in the staircase and let the armor come to us, to defeat it.
+
+After this battle we decide to search the house more thourogly. Starting at the ground floor, we notice nothing of interest. But on the first floor we find a library containing a hidden room. 
+In the hidden room we find a bunch of tooms pertaining to rituals for the Prists of Osibus. A corpse who seemed to have triggered a trap, and a letter from Strahd von Zrovich
+
+<blockquote>
+My most pathetic servant,
+
+I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the ones who brought me to this beautiful land. You are but worms writhing in my earth.
+
+You say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a stillborn son. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.
+
+Your dread lord and master,
+Strahd von Zarovich
+</blockquote>
+
+After searching the rest of the floor, we continued back up to the second floor. 
 
