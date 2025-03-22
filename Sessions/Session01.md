@@ -33,4 +33,6 @@ Kolyan Indirovich
 Burgomaster
 </blockquote> 
 
+Though our motivations where different, be it to fight evil or the promise of wealth we all agreed to help
+
 

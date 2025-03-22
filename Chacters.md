@@ -1,6 +1,18 @@
 # 
 
+## Indirovich
+    - Kolyan Indirovich
+        - Burgomaster (title?)
+        - Signed the letter asking us to help Ireena Kolyana, we received from the stranger in Session01(while we still where on the sword coast)
 
+## Kolyana
+    - Ireena Kolyana
+        - The letter we received from the stranger claims:
+            - She is afflicted by evil
+            - Wounded
+            - Their village is unable to protect her
+
+Ireena Kolyana,
 
 ## Durst familien
     - Gustav
