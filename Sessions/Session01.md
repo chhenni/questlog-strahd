@@ -13,7 +13,7 @@ Regardless of the Half-Orcs cowardice we did indeed win the tournament, and got 
 # The stranger
 The same evening while we where basking in our glory from the tournament win. We meet a stranger who gave us a sealed letter
 
-![Seal](Images/Unknown Crest.png)
+![Seal](./Images/UnknownCrest.png)
 
 The seal was unknown to all of us, but we decided to open the letter
 It read:
