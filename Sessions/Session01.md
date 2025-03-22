@@ -64,6 +64,7 @@ We also noticed rotting food in the dining room. Wierdly the foot in the pantry 
 It had a large central staircase on the south wall, and after checking the rooms on the ground floor for dangers, Elvira and I went upstairs to try to find the baby while Xyrith investigated the ground floor.
 The first floor hallway was empty so we continued up. 
 On the second floor the staircase stopped, in a hallway with a suit of armor, so we tried going to the west wing to try to get further upstairs. Before we got to the door, the suit of armor started attacking us(Quite rudely).
+***TODO: Picture of armor***
 After hearing the noise from the battle, Xyrith decided to join us in the fight. 
 In a feat of amazing strenght Elvira manages to toss the armour down to the ground floor, and we take up positions in the staircase and let the armor come to us, to defeat it.
 
@@ -81,5 +82,43 @@ Your dread lord and master,
 Strahd von Zarovich
 </blockquote>
 
-After searching the rest of the floor, we continued back up to the second floor. 
+After searching the rest of the floor, we continued back up to the second floor. And to the door to the west wing. 
+Opening the door we find a bedroom, it seems to be empty but there is a door to a nursery. As I try to open it a wraith appears and attacks me. As if its protecting something. We sense a sadness in it. 
+***TODO: Picture of wraith***
+After fighting we get to the nursery where there is a bundle that looks like its contains a child. As we open it, we notice there is nothing there.
+
+Suddenly a person wakes up from the bed and starts berrating us for making to much noise. After a short talk he agrees to join us, he seems stuck here like us. He also heals me. But he does seem weary of us.
+His name is Edwarn.
+
+#### The clean sweep
+Continuing to search the second floor, we end up fighting a broom. It seems to be the most deadly foe we have faced thus far, but in a clean sweep we nanaged to kill it. 
+
+We also noticed a bathtub with a finger in it, and a masters beadroom.
+
+From the nursery we continue up to the third floor.
+
+#### The third floor
+We find a room with a creepy doll, and both Xyrith and Elvira decided to attack it. We all thought that was reasonable.
+
+There is also a storage room which contains a chest that has the corpse of the nursemaid.
+
+There are was a spare bedroom with nothing of interest.
+
+But finally we opened the last room on the floor, it was locked from the outside with a padlock, we had found the key to the padlock in the library, so we got it open. 
+Inside the room there where two corpses of childs, presumably Rosawalda and Thornwald. Two ghosts of the children appeart and try to prevent us from leaving the room.
+
+On this floor there is also a staircase leading down to a cellar, we follow it down.
+
+#### The dungeon
+Getting down to the cellar we realise its a crypt. We hear eery chanting and procede with caution.
+Searching it the dungeon we find 6 toombs, 5 are the housband, wife and the three children. All are emtpy, except for the wives. that when opened reveals a monster consisting of many caterpillars
+We fight it successfully.
+
+
+
+
+
+
+
+
 
