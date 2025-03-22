@@ -114,6 +114,7 @@ Getting down to the cellar we realise its a crypt. We hear eery chanting and pro
 Searching it the dungeon we find 6 toombs, 5 are the housband, wife and the three children. All are emtpy, except for the wives. that when opened reveals a monster consisting of many caterpillars
 We fight it successfully.
 
+Our next step is to continue searching the dungeon and find the source of the chanting.
 
 
 
