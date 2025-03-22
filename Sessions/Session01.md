@@ -17,7 +17,8 @@ The same evening while we where basking in our glory from the tournament win. We
 
 The seal was unknown to all of us, but we decided to open the letter
 It read:
-```
+
+<blockquote> 
 Hail to thee of might and valor.
 
 I, a lowly servant of Barovia, send honor to thee. We plead for thy so desperately needed assistance.
@@ -30,6 +31,6 @@ Come quickly, for her time is at hand! All that I have shall be thine!
 
 Kolyan Indirovich
 Burgomaster
-```
+</blockquote> 
 
 
