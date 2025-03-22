@@ -1,4 +1,12 @@
 # 
+## Ukjent etternavn
+- The stranger
+    - Lead us to this strange place after giving us a letter from Kolyan Indirovich asking for help
+    - Husker ikke om vi fikk noe navn på han
+
+- Madame Eva
+    - The stranger told us to seek her out
+
 
 ## Indirovich
 - Kolyan Indirovich
@@ -12,7 +20,6 @@
         - Wounded
         - Their village is unable to protect her
 
-Ireena Kolyana,
 
 ## Durst familien
 - Gustav
@@ -21,8 +28,6 @@ Ireena Kolyana,
 - Elisabeth
     - Moren i huset
     - Død? Fant tom grav(minus centipede monster)
-- Antonia
-    - Mulig jeg skrev ned feil navn
 - Walther
     - Død
     - Stillborn sønn av Gustav
