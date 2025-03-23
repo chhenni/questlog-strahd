@@ -54,6 +54,7 @@ Waking up we realise our camp is in a village
 Most of the houses seems boarded up and abandoned, but outside one we see to children. They seem upset and one is clutching a doll
 ![Children](./Images/01Children.png)
 
+
 I approach them to find out what the problem is.
 They say that there is a monster in their house, locked into the basement by their parents. They also say that one of their siblings is still in the house, on the third floor.
 When asking how long they had been waiting outside their house, they said a week, but I got the feeling that it was longer than that. I ended up giving them a ration pack as we went to check out the house and try to save the baby
@@ -66,6 +67,8 @@ It had a large central staircase on the south wall, and after checking the rooms
 The first floor hallway was empty so we continued up. 
 On the second floor the staircase stopped, in a hallway with a suit of armor, so we tried going to the west wing to try to get further upstairs. Before we got to the door, the suit of armor started attacking us(Quite rudely).
 ![Armor](./Images/01Armor.png)
+
+
 After hearing the noise from the battle, Xyrith decided to join us in the fight. 
 In a feat of amazing strenght Elvira manages to toss the armour down to the ground floor, and we take up positions in the staircase and let the armor come to us, to defeat it.
 
@@ -86,6 +89,8 @@ Strahd von Zarovich
 After searching the rest of the floor, we continued back up to the second floor. And to the door to the west wing. 
 Opening the door we find a bedroom, it seems to be empty but there is a door to a nursery. As I try to open it a specter appears and attacks me. As if its protecting something. We sense a sadness in it. 
 ![Specter](./Images/01Specter.png)
+
+
 After fighting we get to the nursery where there is a bundle that looks like its contains a child. As we open it, we notice there is nothing there.
 
 Suddenly a person wakes up from the bed and starts berrating us for making to much noise. After a short talk he agrees to join us, he seems stuck here like us. He also heals me. But he does seem weary of us.
