@@ -9,6 +9,7 @@ We found a room with a table and many bones. We got attacked by a small snake li
 Following the corridors further west, we ran into some ghouls.
 Ill be completely honest. I dont remember much of the fight. I spent most of it on the floor with two ghouls piled on top of me. 
 The ghouls seemed to still have some humanity left. Edwarn indicated that they might be liches(sp?)
+![[02Ghoul.png]]
 
 ## Altar
 We came into a room with a altar.
@@ -23,13 +24,13 @@ We further follow a corridor to the south and try to open a door
 
 ## Mimic
 The door was not a door. It was a mimic.. With my hand in its mouth. With one hand in its mouth I sliced it with my sword continiously, while the rest of the party also attacked it. It seemed to work as it died. Still with my hand in its mouth.
-** Image **
+![[02Mimic.png]]
 
 ## Ghasts
 The next room we found worth mentioning was a bedroom, when we where peeking trough a chest two ghasts appepred. In the fight i got downed for the first time in this darned house. Elvira managed to force feed me a healing potion. So i pulled through.
 The ghasts wore the same cloths as the parents in the picture on the first flore.
 Atleast I got fancy new cloak from it.
-** Image **
+![[02Ghast.jpeg]]
 
 ## Further down
 We decided to check out the eastern part of the dungion, on the way there I managed to fall into a spike trap. Elvira pulled me up with a rope, and Edwirn patched me together.
@@ -51,7 +52,7 @@ A big blob of a creature appeared. I charged at it, to try to keep it pinned dow
 But Xyrith asked me to let it come further into the room. So I took a few steps back, loosing a opportunity to give a solid blow, or do something else that might have been useful.
 This ofcourse panned out just as expected, Largoth ended up downing me. Atleast Xyrith healed me shortly after. 
 Since im still writing we ofcourse mananged to kill it. It ended with my sword stabbed deep into the monster.
-
+![[02Smabling Mound.png]]
 
 ## Rats & Scythes
 After Largoth was killed, it seemed like our business here was done. So we started on the way up to the surface. At first we tried to check the trapdoor, but the door out from the room blocked by scythes swinging across the doorway.The room is also filled with a wierdly plesantly smelling smoke.
