@@ -3,7 +3,7 @@
 
 ## The crypt
 We found a room with a table and many bones. We got attacked by a small snake like thing with a beak and tentacles
-** Picture **
+![[02Grick.png]]
 
 ## Ghouls!
 Following the corridors further west, we ran into some ghouls.
