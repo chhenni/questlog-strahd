@@ -36,7 +36,7 @@ Atleast I got fancy new cloak from it.
 ## Further down
 We decided to check out the eastern part of the dungion, on the way there I managed to fall into a spike trap. Elvira pulled me up with a rope, and Edwirn patched me together.
 
-Whhen we got to the eastern wing and decended further down. We found multiple dorms for the cultists. Atleast we found some loot to bring out.
+When we got to the eastern wing and decended further down. We found multiple dorms for the cultists. Atleast we found some loot to bring out.
 We travelled furhter down. 
 The next room seemed to have been the scene of some dark rituals, I feel that we are getting closter to the bottom and more evil. 
 The chanting we had heard since we got to the basement seemd to only grow stronger. 
