@@ -6,8 +6,6 @@
 
 
 # Kolyan Indirovich
-- Burgomaster
-- Send the letter that got us into this mess in the first place. Though we have good reason to belive that the letter is forged, probably by Strahd(who shares the handwriting)
 
 ## Ukjent etternavn
 - The stranger
@@ -30,6 +28,10 @@ Enemies of Strah
 - Kolyan Indirovich
     - Burgomaster (title?)
     - Signed the letter asking us to help Ireena Kolyana, we received from the stranger in Session01(while we still where on the sword coast)
+    - Send the letter that got us into this mess in the first place. Though we have good reason to belive that the letter is forged, probably by Strahd(who shares the handwriting)
+
+- Ismark the lesser
+    - Son of Kolyan
 
 ## Kolyana
 - Ireena Kolyana
@@ -37,6 +39,7 @@ Enemies of Strah
         - She is afflicted by evil
         - Wounded
         - Their village is unable to protect her
+
 
 
 ## Durst familien

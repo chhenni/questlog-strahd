@@ -31,6 +31,7 @@ The door was not a door. It was a mimic.. With my hand in its mouth. With one ha
 The next room we found worth mentioning was a bedroom, when we where peeking trough a chest two ghasts appepred. In the fight i got downed for the first time in this darned house. Elvira managed to force feed me a healing potion. So i pulled through.
 The ghasts wore the same cloths as the parents in the picture on the first flore.
 Atleast I got fancy new cloak from it.
+
 ![Ghast](./Images/02Ghast.jpeg)
 
 ## Further down
@@ -53,6 +54,7 @@ A big blob of a creature appeared. I charged at it, to try to keep it pinned dow
 But Xyrith asked me to let it come further into the room. So I took a few steps back, loosing a opportunity to give a solid blow, or do something else that might have been useful.
 This ofcourse panned out just as expected, Largoth ended up downing me. Atleast Xyrith healed me shortly after. 
 Since im still writing we ofcourse mananged to kill it. It ended with my sword stabbed deep into the monster.
+
 ![Smambling Mound](./Images/02SmablingMound.png)
 
 ## Rats & Scythes

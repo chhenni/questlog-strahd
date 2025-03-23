@@ -52,6 +52,7 @@ But atleast the camp seems to be as safe as one could expect.
 ### The ghost house
 Waking up we realise our camp is in a village
 Most of the houses seems boarded up and abandoned, but outside one we see to children. They seem upset and one is clutching a doll
+
 ![Children](./Images/01Children.png)
 
 
@@ -66,6 +67,7 @@ We also noticed rotting food in the dining room. Wierdly the foot in the pantry 
 It had a large central staircase on the south wall, and after checking the rooms on the ground floor for dangers, Elvira and I went upstairs to try to find the baby while Xyrith investigated the ground floor.
 The first floor hallway was empty so we continued up. 
 On the second floor the staircase stopped, in a hallway with a suit of armor, so we tried going to the west wing to try to get further upstairs. Before we got to the door, the suit of armor started attacking us(Quite rudely).
+
 ![Armor](./Images/01Armor.png)
 
 
@@ -88,8 +90,8 @@ Strahd von Zarovich
 
 After searching the rest of the floor, we continued back up to the second floor. And to the door to the west wing. 
 Opening the door we find a bedroom, it seems to be empty but there is a door to a nursery. As I try to open it a specter appears and attacks me. As if its protecting something. We sense a sadness in it. 
-![Specter](./Images/01Specter.png)
 
+![Specter](./Images/01Specter.png)
 
 After fighting we get to the nursery where there is a bundle that looks like its contains a child. As we open it, we notice there is nothing there.
 
