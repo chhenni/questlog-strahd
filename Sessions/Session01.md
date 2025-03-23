@@ -89,6 +89,7 @@ Opening the door we find a bedroom, it seems to be empty but there is a door to 
 After fighting we get to the nursery where there is a bundle that looks like its contains a child. As we open it, we notice there is nothing there.
 
 Suddenly a person wakes up from the bed and starts berrating us for making to much noise. After a short talk he agrees to join us, he seems stuck here like us. He also heals me. But he does seem weary of us.
+We asked him how long he had been here, and he replied a few months. But when asked about what year he thought it was, we was off by a few. It seemed like he had missed some time.
 His name is Edwarn.
 
 #### The clean sweep
