@@ -59,6 +59,6 @@ Ismark is willing to provide us with horses and a map to help with his mission.
 The others agreed to help him, so i guess we are doing that. Though there is something that does not check out here from me, I reluctantly agreed to join.
 We agreed to meet Ismark the next day at his house.
 
-## Til neste session
+## Notes to next session
 - Hva er Vistani
 

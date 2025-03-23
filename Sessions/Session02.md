@@ -72,7 +72,7 @@ After our rest we start to investigate the city.
 
 As we start walking we notice several people walking around in the streets.
 
-## Not to next session
+## Notes to next session
 - We want to ask the villagers where we are
 - We want to ask the villages what year it is(we are wondering how long we have spent in the house and travelling
 
