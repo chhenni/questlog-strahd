@@ -45,6 +45,12 @@ We also inquired into the village.
 Our next move was to go to the tavern to see if we could get some lodgings for the night.
 
 ## The tavern
+In the tavern we med Ismark the lesser. He is the son of Kolyan Indirovich the Burgomaster.
+He asked about our experience in the Death House. When we told him about it he asked us to do a job for him.
+### Continue here
+
+When we told him about the letter that invited us to come that was addressed from his father. He said that his father had died three days ago(same as the attacks on the village stopped).
+
 
 ## Til neste session
 - Hva er Vistani

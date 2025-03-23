@@ -5,6 +5,9 @@
 - Probably not very nice
 
 
+# Kolyan Indirovich
+- Burgomaster
+- Send the letter that got us into this mess in the first place. Though we have good reason to belive that the letter is forged, probably by Strahd(who shares the handwriting)
 
 ## Ukjent etternavn
 - The stranger
