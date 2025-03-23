@@ -1,4 +1,11 @@
 # 
+
+## Strahd von Zarovich
+- Ruler of the land
+- Probably not very nice
+
+
+
 ## Ukjent etternavn
 - The stranger
     - Lead us to this strange place after giving us a letter from Kolyan Indirovich asking for help
@@ -6,6 +13,14 @@
 
 - Madame Eva
     - The stranger told us to seek her out
+
+- Morgantha
+    - Old woman from the village
+    - Takes children in protection from a "evil"
+    - Sells minced pices
+
+## Order of the silver dragon
+Enemies of Strah
 
 
 ## Indirovich
