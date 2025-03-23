@@ -45,12 +45,18 @@ We also inquired into the village.
 Our next move was to go to the tavern to see if we could get some lodgings for the night.
 
 ## The tavern
-In the tavern we med Ismark the lesser. He is the son of Kolyan Indirovich the Burgomaster.
-He asked about our experience in the Death House. When we told him about it he asked us to do a job for him.
-### Continue here
+In the tavern we med Ismark the lesser. He is the son of Kolyan Indirovich the Burgomaster(the man who sent the letter asking us to help this place)
+He asked about our experience in the Death House. After we told him about it he asked us to do a job for him.
+
+He wants us to escort his sister to Valahi, her name is Ireena. This makes me wonder, since the letter from Kolyan refered to her as the love of his(Kolyan) life.
 
 When we told him about the letter that invited us to come that was addressed from his father. He said that his father had died three days ago(same as the attacks on the village stopped).
+We also asked about the Ireena begin Ismarks sister, in relation to being refered to as the love of Kolyans life(alteast i read as his wife). 
+Something does not check out properly here. 
+Ismark clarified that Ireena is his adopted sister, and that Strahd is fixated on her for some reason.
 
+Ismark is willing to provide us with horses and a map to help with his mission. 
+The others agreed to help him, so i guess we are doing that. Though there is something that does not check out here from me, I reluctantly agreed to join.
 
 ## Til neste session
 - Hva er Vistani
