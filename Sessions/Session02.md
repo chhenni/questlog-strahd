@@ -24,6 +24,7 @@ We further follow a corridor to the south and try to open a door
 
 ## Mimic
 The door was not a door. It was a mimic.. With my hand in its mouth. With one hand in its mouth I sliced it with my sword continiously, while the rest of the party also attacked it. It seemed to work as it died. Still with my hand in its mouth.
+
 ![Mimic](./Images/02Mimic.png)
 
 ## Ghasts
@@ -52,7 +53,7 @@ A big blob of a creature appeared. I charged at it, to try to keep it pinned dow
 But Xyrith asked me to let it come further into the room. So I took a few steps back, loosing a opportunity to give a solid blow, or do something else that might have been useful.
 This ofcourse panned out just as expected, Largoth ended up downing me. Atleast Xyrith healed me shortly after. 
 Since im still writing we ofcourse mananged to kill it. It ended with my sword stabbed deep into the monster.
-![Shambling Mound](./Images/02Smabling Mound.png)
+![Smambling Mound](./Images/02SmablingMound.png)
 
 ## Rats & Scythes
 After Largoth was killed, it seemed like our business here was done. So we started on the way up to the surface. At first we tried to check the trapdoor, but the door out from the room blocked by scythes swinging across the doorway.The room is also filled with a wierdly plesantly smelling smoke.
