@@ -18,7 +18,7 @@ Statue of a man in cloak
 - Old/unfamiliar
 - Gaunt pale face
 
-Uppon further inspecting the room we find a trapdoor leading to the top floor.
+Uppon further inspecting the room we find a trapdoor leading to the ground floor.
 We further follow a corridor to the south and try to open a door
 
 ## Mimic
@@ -54,6 +54,24 @@ Since im still writing we ofcourse mananged to kill it. It ended with my sword s
 
 
 ## Rats & Scythes
+After Largoth was killed, it seemed like our business here was done. So we started on the way up to the surface. At first we tried to check the trapdoor, but the door out from the room blocked by scythes swinging across the doorway.The room is also filled with a wierdly plesantly smelling smoke.
+Deciding that this way would be unvise we decieded to go all the way through the top off the house. Comming out of the stairwell, we noticed scythes in the doorway here as well. We all noticed that the house seemed to have decayed further while we where down in the dungeon, and the windows where boarded up. We all managed to get through the first set of scythe. Though not all unharmed. 
+
+Uppon finding the next scythe Edwarn instead decided to go through it by punching a hole in the wall to the stairwell. He easily succeded in that. But when the wall breaks a swarm of rats come out from it. We fight them off and procede down.
+
+The stategy is clear, avoid doorway, break walls. When we get to the second floor we repeat the demoliton and meet more rats. Xyrith charges into the next room and unleashes a swarm of thunder on the amasing rats. This succeeds in killing the rats off, but also breaks quite a few other doors. This in turn makes more rats appear from the cracked walls. So he decided to start jumping down the stairwell. The rest of us follow more or less elegantly, with rats following closly. We all manage to get down to the bottom floor more or less intact, Elvira takes a tumble and is incapacitated, but Xyrith manages to revive her. Elvira in a spark of genious runs to the outside wall, and breaks though giving us a exit. Eventually we all manage to get out to safety.
+
+
+## Finally outside
+As we all get out, we are still surrouned by the fog, but battered after the ordeal we decide to take a short rest. As we rest we notice the fog is lifting, and we see the town more clearly.
+After our rest we start to investigate the city. 
+
+As we start walking we notice several people walking around in the streets.
+
+## Not to next session
+- We want to ask the villagers where we are
+- We want to ask the villages what year it is(we are wondering how long we have spent in the house and travelling
+
 
 
 
