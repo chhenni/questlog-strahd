@@ -3,12 +3,14 @@
 
 ## The crypt
 We found a room with a table and many bones. We got attacked by a small snake like thing with a beak and tentacles
+
 ![Grick](./Images/02Grick.png)
 
 ## Ghouls!
 Following the corridors further west, we ran into some ghouls.
 Ill be completely honest. I dont remember much of the fight. I spent most of it on the floor with two ghouls piled on top of me. 
 The ghouls seemed to still have some humanity left. Edwarn indicated that they might be liches(sp?)
+
 ![Ghoul](./Images/02Ghoul.png)
 
 ## Altar
