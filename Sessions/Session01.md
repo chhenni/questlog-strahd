@@ -3,15 +3,15 @@
 ### The road
 When I meet Elivra and Xyrith in a tavern, I was preparing to travel towards Waterdeep from Neverwinter. The roads where reportedly quite unsafe with bandits roaming, so when they both said they where heading the same way i was relived.
 
-We set out and the travels where uneventful, untill we got to a small town, where the tavern owner was hosting a tournament. We decided to join in as a team(see what i did there?)
+We set out and the travels where uneventful, untill we got to a small town, where the tavern owner was hosting a tournament. We decided to join in as a team(see what i did there?).
 
 We where supprised by the lack of competition in the first three rounds we fought. But in the final bout we faced a team concisting of a Half-Orc, a Human and a Aarakocra. 
 The Human and the Aarakocra proved a bit weaker, but the Half-Orc proved to be a challenge, even though he tried to hide out behind a rock for the start of the tournament. 
 That did not seem too honourable to me.
-Regardless of the Half-Orcs cowardice we did indeed win the tournament, and got a nice paycheck of 15 GP and two healing potions
+Regardless of the Half-Orcs cowardice we did indeed win the tournament, and got a nice paycheck of 15 GP and two healing potions.
 
 ### The stranger
-The same evening while we where basking in our glory from the tournament win. We meet a stranger who gave us a sealed letter
+The same evening while we where basking in our glory from the tournament win. We meet a stranger who gave us a sealed letter.
 
 ![Seal](./Images/01UnknownCrest.png)
 
@@ -58,7 +58,7 @@ Most of the houses seems boarded up and abandoned, but outside one we see to chi
 
 I approach them to find out what the problem is.
 They say that there is a monster in their house, locked into the basement by their parents. They also say that one of their siblings is still in the house, on the third floor.
-When asking how long they had been waiting outside their house, they said a week, but I got the feeling that it was longer than that. I ended up giving them a ration pack as we went to check out the house and try to save the baby
+When asking how long they had been waiting outside their house, they said a week, but I got the feeling that it was longer than that. I ended up giving them a ration pack as we went to check out the house and try to save the baby.
 We got the feeling that we where starting to get walled in while outside, but there was nothing we could do about it so we carried on.
 
 After checking the windows for dangers we went inside the house.
@@ -75,7 +75,7 @@ After hearing the noise from the battle, Xyrith decided to join us in the fight.
 In a feat of amazing strenght Elvira manages to toss the armour down to the ground floor, and we take up positions in the staircase and let the armor come to us, to defeat it.
 
 After this battle we decide to search the house more thourogly. Starting at the ground floor, we notice nothing of interest. But on the first floor we find a library containing a hidden room. 
-In the hidden room we find a bunch of tooms pertaining to rituals for the Prists of Osibus. A corpse who seemed to have triggered a trap, and a letter from Strahd von Zrovich
+In the hidden room we find a bunch of tooms pertaining to rituals for the Prists of Osibus. A corpse who seemed to have triggered a trap, and a letter from Strahd von Zrovich.
 
 <blockquote>
 My most pathetic servant,
