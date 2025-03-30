@@ -14,7 +14,7 @@
 - Who are they?
 
 ## Ismark the lesser
-- He wants to help us escord his sister Ireena to Valahi [Session 03](Sessions/Session03.md#The\ Tavern)
+- He wants to help us escord his sister Ireena to Valahi [Session 03](Sessions/Session03.md#The+Tavern)
 
 - Do we trust him?
 
