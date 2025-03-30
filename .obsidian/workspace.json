@@ -11,10 +11,14 @@
             "id": "d1e6b3dfd93b3137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quests.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quests"
             }
           }
         ]
@@ -167,11 +171,18 @@
   "active": "d1e6b3dfd93b3137",
   "lastOpenFiles": [
     "Sessions/Session03.md",
+    "Quests.md",
+    "Main.md",
+    "RandomNodes.md",
+    "Locations.md",
+    "Chacters.md",
+    "Sessions/Images/03Ismark.png",
+    "Images/00_MapOfBarovia.jpg",
+    "Images",
     "Sessions/Session02.md",
+    "Sessions/Session01.md",
     "Sessions/Images/02SmamblingMound.png",
     "Sessions/Images/02ShamblingMound.png",
-    "Sessions/Session01.md",
-    "RandomNodes.md",
     "Sessions/Images/02Grick.png"
   ]
 }
