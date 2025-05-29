@@ -13,7 +13,19 @@ While helping me, he had a wierd outburst, followed by him saying "Your knife ea
 When we got downstairs, we all had some stew and started to chat with a lady named Mirabel.
 We asked her about the commotions of last night, she said it was "The march of the dead". Appearently it does not harm anyone. But it is the Ghosts of the dead marching up to ravenloft castle.
 I asked her about who or what the Vistani is.
-Her reply is that they are Travellers, Drinkmakers, and offer services, for a price.
+Her reply is that they are Travellers, Drinkmakers, and offer services, for a price. They do not know where they originally are from
 
-## Buildrat
+## Buildrak
+We went to the merchant to stock up on supplies.
+Immediatly we got the exhorborant prices confirmed. But we managed to trade the pie i bought yesterday and the vanity box we found for some healers kits and a grappeling hook.
+Edward mentioned that there is a smell of death everywhere, and beeing made aware of it i also took note of it.
+
+## Burgon masters house
+Our next destination was the burgon masters house. On the way there i noticed the smell of death from lots of houses.
+The house it self looked like it had been under attack. There where indications of both wolfs and humans trying to get in.
+
+Inside we took notes of holy symbols everywhere.
+Kolyan was in a cask ready to be burried.
+We where eager to get Ireena to safety, but she was not willing to go just yet. She both wanted to ensure some safety for the village and get her farher burried.
+We immediatly offered to help bury Kolyan. There was a nice funeral.
 
