@@ -39,7 +39,7 @@ He was very grateful for getting the child back and was willing to give us some 
 
 We also inquired into the village.
 - There is a tavern named "Blood of the vine(or is wine)".
-- There is a merchant Bildrars. Appearently he chages exchorborant prices.
+- There is a merchant Bildraks. Appearently he chages exchorborant prices.
 - He also adviced us to stay away from Castle Ravenloft and Strahd.
 
 Our next move was to go to the tavern to see if we could get some lodgings for the night.

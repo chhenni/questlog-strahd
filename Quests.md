@@ -8,6 +8,8 @@
 ## The temple
 - Morgantha mentioned a "Hidden templte containing forbidden lore" [Session 03](Sessions/Session03.md#Morgantha)
 - She said to get there we have to follow "a long and winded path" (might have been more, but my quill was burning up all the notes in this interrogation
+- It should be to the west
+- The path is named the Solanka path
 
 ## The "Order of the silver dragon"
 - Mentioned by Morgantha as enemies of Strahd [Session 03](Sessions/Session03.md#Morgantha)
