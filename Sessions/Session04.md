@@ -42,4 +42,11 @@ She asked us too look for her. She is 16 years old, have long brown hair, and bi
 We promised to keep an eye out for her
 
 ## The church
-To get some more information about
+Finally arriving at the church. We notice the same sign of attacks as from the Burgon masters house.
+Inside we see the abbed in fervent prayers. He seemed to have been at it for a while. As we approach him we hear someone screaming from the basement. I enquire into this, but he was reluctant to aswer.
+
+![Donavich](./Images/04Donavich.png)
+
+
+
+
