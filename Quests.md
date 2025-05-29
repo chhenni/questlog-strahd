@@ -20,3 +20,5 @@
 
 - Do we trust him?
 
+## Missing daughter
+- Mary wants us to try to find her daughter Gerturda [Session 04](Sessions/Session04.md#Missing+Daughter)

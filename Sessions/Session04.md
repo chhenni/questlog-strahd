@@ -27,5 +27,19 @@ The house it self looked like it had been under attack. There where indications 
 Inside we took notes of holy symbols everywhere.
 Kolyan was in a cask ready to be burried.
 We where eager to get Ireena to safety, but she was not willing to go just yet. She both wanted to ensure some safety for the village and get her farher burried.
-We immediatly offered to help bury Kolyan. There was a nice funeral.
 
+![Ireena](./Images/04Ireena.png)
+
+We immediatly offered to help bury Kolyan. There was a nice funeral.
+We left the family the grieve in peace.
+
+Our next destination was the church. We figured we could get some more information there.
+
+## Missing daughter
+On the way to the church we heard sobbing from a house. After trying to knock on the door and getting no response, we ended up just going in.
+Inside we found a woman named Mary, her daughter had run away from home.
+She asked us too look for her. She is 16 years old, have long brown hair, and big eyes, full lips. She looks younger than she is.
+We promised to keep an eye out for her
+
+## The church
+To get some more information about
