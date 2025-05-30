@@ -53,10 +53,25 @@ Regardless the attack failed, and most where killed, expect Doru who was turned 
 For some reason Strahd let him return to the village.
 
 Keeping a creature locked up in a basement without sustenance seems to be akin to torture, which I cannot abide. So we coerced Donavich to let us meet Doru.
-After struggeling to find the key to the basement, we ended up breaking the locks to the trapdoor down to the basement. I must admit, I was unsure on what good this would to. Concidering we promised not to kill Doru.
-For me this would have been a mercy killing. But a oath is a oath.
+First we spoke through the trapdoor, Doru was pleading for food. Edwarn volunteered to go on a hunt, and soon came back with a deer.
+After struggeling to find the key to the basement, we ended up breaking the locks to the trapdoor down to the basement. We tossed down the deer carcass to give some relief to the starving vampire. After eating, the vampire asked for some company.
+I was hesitant myself, a vampire is a dangerous creature, but Edwarn agreed to go down.
+I must admit, I was unsure on what good this would to. Concidering we promised not to kill Doru.
+For me this would have been a mercy killing. But a oath is a oath. What a predicament
 
 ![Doru](./Images/04Doru.png)
 
 In the basement we meet Doru. It was clear that a year in the basement had not done much good to his sanity.
-We decided to hear him out. He told us that they had indeed tried to take on Strahd.
+We decided to hear him out. He told us that they had indeed tried to take on Strahd, and that his entire party wiped out, and himself got turned into a vampire.
+For me, the obvious mercyful choice would have been to put him out of his missery, but alas, I swore an oath not to kill him.
+
+He complained that he still was hungry. Elvira agreed to let him drink some of her blood. Im unsure if this was a good move, he seemed to get more strength after drinking it, but what is done is done.
+Afterwards we made him swear to some simple rules to let him live.
+1. He was allowed to hunt in the forrest
+2. He must stay out of the village
+3. He must not feed on humans, with the exception that his father is allowed to feed him.
+4. He must help us in our quest to take on Strahd when the time comes, but he will not be assisting him in the castle since he is afraid of his makers pull over him.
+
+Donavich and Doru both seemed relieved by this resolution, but I must admit, I'm fearing that we have let another monster loose in the village.
+
+
