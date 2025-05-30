@@ -41,6 +41,8 @@ Inside we found a woman named Mary, her daughter had run away from home.
 She asked us too look for her. She is 16 years old, have long brown hair, and big eyes, full lips. She looks younger than she is.
 We promised to keep an eye out for her
 
+Heading out of the house both Xyrith and I heard Elvira in our head. Why would she invade our minds like this. Such nonsence! We thold her in no uncertain terms to only use that magic when it was neccessary.
+
 ## The church
 Finally arriving at the church. We notice the same sign of attacks as from the Burgon masters house.
 Inside we see the abbed in fervent prayers. He seemed to have been at it for a while. As we approach him we hear someone screaming from the basement. I enquire into this, but he was reluctant to aswer.
