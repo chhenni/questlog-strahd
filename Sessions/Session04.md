@@ -47,6 +47,16 @@ Inside we see the abbed in fervent prayers. He seemed to have been at it for a w
 
 ![Donavich](./Images/04Donavich.png)
 
+After some coercion he told us that this it was his son that was in the basement, but he refused to tell me more unless I promised to not kill his son. I made that promise.
+Donavich revealed that the reason his son was locked in the basement was because he had tried to take on Strahd with a wizard in black and some other townsfolk(The wizard in black seemed to be known to Edwarn, a past travel companion).
+Regardless the attack failed, and most where killed, expect Doru who was turned into a vampire.
+For some reason Strahd let him return to the village.
 
+Keeping a creature locked up in a basement without sustenance seems to be akin to torture, which I cannot abide. So we coerced Donavich to let us meet Doru.
+After struggeling to find the key to the basement, we ended up breaking the locks to the trapdoor down to the basement. I must admit, I was unsure on what good this would to. Concidering we promised not to kill Doru.
+For me this would have been a mercy killing. But a oath is a oath.
 
+![Doru](./Images/04Doru.png)
 
+In the basement we meet Doru. It was clear that a year in the basement had not done much good to his sanity.
+We decided to hear him out. He told us that they had indeed tried to take on Strahd.
